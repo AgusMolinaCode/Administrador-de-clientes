@@ -1,0 +1,26 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Guillermo5",
+      "empresa": "AGUSTIN MOLINA",
+      "email": "am.motos@hotmail.com",
+      "telefono": "3053063125",
+      "notas": "1",
+      "id": 6
+    }
+  ]
+}
